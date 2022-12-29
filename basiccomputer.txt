@@ -30,3 +30,5 @@ Run: temp, %temp%, prefetch, recent, tree.
 
 Notepad, Snipping tool, Paint, Paint 3D, Calculator, Alarm & Clock,
 Calendar, Weather, On screen keyboard
+
+step recorder - psr(shortcut command)
