@@ -1,0 +1,87 @@
+=> How to open? 
+
+start menu, search option, mouse right button, shortcut option, taskbar, windows+R (winword).
+
+** Title bar, rightside(minimize, restore, close), leftside(customize quick access toolbar),  
+** Tab, ribbon, dialog box, working area, ruler, scrollbar, statusbar(below), zoomin/zoomout(below),
+text cursor/ insertion point, eyeview.
+
+=> Text paragraph
+
+=rand() -> enter 
+
+Select a sentence and show formatting mini toolbar.
+Spacebar, tab, Capslock, delete, backspace
+
+* Home option all 
+
+** Font-family: Times New Roman, font size: 12,
+
+** Paragraph -
+align - left, center, right
+
+* border in paragraph,
+
+* line spacing,
+* bullets
+
+** Shortcut keys (A-Z)
+
+=> Ctrl + A (all selects)
+=> Ctrl + B (bold)
+=> Ctrl + C (copy)
+=> Ctrl + D (open font formatting window)
+=> Ctrl + E (center align)
+=> Ctrl + F (find)
+=> Ctrl + G (go to)
+=> Ctrl + H (replace)
+=> Ctrl + I (italic)
+=> Ctrl + J (justify)
+=> Ctrl + K (add hyperlink)
+=> Ctrl + L (left align)
+=> Ctrl + M (indent paragraph)
+=> Ctrl + N (new file)
+=> Ctrl + O (open word file)
+=> Ctrl + P (print)
+=> Ctrl + Q (clear paragraph formatting)
+=> Ctrl + R (right align)
+=> Ctrl + S (save file)
+=> Ctrl + T (indent paragraph, after first line)
+=> Ctrl + U (underline)
+=> Ctrl + V (paste)
+=> Ctrl + W (close document)
+=> Ctrl + X (cut)
+=> Ctrl + Y (indent paragraph)
+=> Ctrl + Z (undo)
+
+
+* Insert image
+
+* Smart Art, Chart
+
+** Insert => Cover page, Blank page, Page break, Table.
+
+* Table design, shading, layout, Split cells, Split Table, Rows and Columns, Draw Table.
+
+* Waatermark
+
+* layout, page setup
+
+* Spelling and grammer, language, Translate, restrict editing
+
+* print
+
+
+Tutorial - 15 (end)
+
+
+
+** Web design 
+Tech bangla 24
+
+fb page and income ->
+
+Page name: Web Buzz 
+
+
+
