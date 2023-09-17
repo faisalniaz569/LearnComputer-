@@ -62,7 +62,7 @@ Backbround change, Lock screen, Themes, Fonts and all.
 Lesson 7:
 * View,
 * Sort by,
-* Create a new folder and rename
+* Create a new folder, rename and delete
 
 
 
