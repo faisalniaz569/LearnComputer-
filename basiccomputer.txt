@@ -7,6 +7,74 @@
 
 ** Microsoft Outlook, Microsoft Excel, Microsoft OneNote. (Tutorial)
 
+Basic Laptop sylabus:
+=====================
+
+Lesson 1:
+* Introduction Monitor and Laptop,
+* How to open Laptop,
+* Keyboard, mouse and mousepad introduction,
+* Leftclick and rightclick in mousepad,
+* Charhgerport, Internet connection port, The place where the sound of the speaker comes out,
+HDMI port(for projector), USB port(for keyboard, mouse, pendrive), SD card port,
+* Headphone port, DVD drive,
+* Battery
+
+Lesson 2:
+** Charhgerport, Internet connection port, The place where the sound of the speaker comes out,
+HDMI port(for projector), USB port(for keyboard, mouse, pendrive), SD card port, Headphone port, DVD drive 
+all practical work.
+
+Lesson 3:
+* Difference between laptop and Notebook,
+* Design, Specification and price.
+
+# Parts of Laptop:
+Motherboard, Processor core i3/i5/i7/i9, Ram/Memory 8GB/16GB,
+Storage/Hard Drive: 1TB SATA HDD, SSD storage: 512GB  - Extra Storage M.2,
+Graphics Card, Power adapter, Laptop and Monitor keyboard, Laptop touchpad,
+Webcam, Laptop USB port.
+
+Lesson 4:
+* Operating System,
+* Device Specification,
+* Laptop input, Output and both devices.
+* Extra parts
+
+Lesson 5:
+* Power button: sleep, shutdown, restart
+* Keyboard introduction -
+1) Function keys (F1 - F12)
+2) Alphabetic keys (A - Z)
+3) System keys (Esc - Bacspace)(14)
+4) Editing keys (PrintScr - Pgdn) (7)
+5) Arrow keys (Left, right, up, down)
+6) Numeric keys (0-9)
+
+* Symbol keys
+
+Lesson 6:
+* Icon or Folder:
+System icon, Application icon and folder
+* Mouse right click -> Personalization
+Backbround change, Lock screen, Themes, Fonts and all.
+
+Lesson 7:
+* View,
+* Sort by,
+* Create a new folder and rename
+
+
+
+Lesson 9:
+* Pin to Taskbar,
+* Unpin to Taskbar,
+* Move the Taskbar,
+* Lock the Taskbar,
+* Show touch keyboard button,
+* News and Interest,
+* Task Manager
+
 
 Software download - 
 
