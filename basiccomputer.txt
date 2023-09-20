@@ -64,6 +64,14 @@ Lesson 7:
 * Sort by,
 * Create a new folder, rename and delete
 
+Lesson 8:
+* Create a new folder, 
+* Rename folder,
+* File copy/cut in folder,
+* Hidden folder,
+* Change folder icon,
+* Details of recycle bin
+
 
 
 Lesson 9:
