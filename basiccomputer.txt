@@ -60,9 +60,31 @@ System icon, Application icon and folder
 Backbround change, Lock screen, Themes, Fonts and all.
 
 Lesson 7:
-* View,
-* Sort by,
-* Create a new folder, rename and delete
+* View
+(Large icon, Medium icon, small icon), (Auto arrange icon),
+(Align icons to grid), (Show desktop icons)
+* Sort by
+(Name, size, Item type, Date modified)
+
+Extra parts of laptop -
+1. Keyboard and mouse,
+2. Wireless Keyboard and mouse,
+3. Wireless Headphone,
+4. Clip microphone,
+5. Speaker - Bluetooth speakers,
+6. Router - pocket, wi-fi, modem,
+7. Printer,
+8. Scanner,
+9. Pen drive,
+10. HDMI Cable,
+11. Extra USB Cable,
+12. SD card,
+13. Card reader,
+14. USB Hub,
+15. UPS-Power supply,
+16. Joystick,
+17. Broadband Internet Connector,
+18. External Hard disk drive
 
 Lesson 8:
 * Create a new folder, 
@@ -71,8 +93,6 @@ Lesson 8:
 * Hidden folder,
 * Change folder icon,
 * Details of recycle bin
-
-
 
 Lesson 9:
 * Pin to Taskbar,
