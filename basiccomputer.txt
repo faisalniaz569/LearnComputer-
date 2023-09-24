@@ -87,9 +87,10 @@ Extra parts of laptop -
 18. External Hard disk drive
 
 Lesson 8:
-* Create a new folder, 
-* Rename folder,
+* Create a new folder, Rename folder, folder delete,
+* Folder open, minimize, maximize, close,
 * File copy/cut in folder,
+* Select one/two,
 * Hidden folder,
 * Change folder icon,
 * File delete,
