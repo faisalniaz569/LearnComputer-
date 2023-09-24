@@ -92,7 +92,8 @@ Lesson 8:
 * File copy/cut in folder,
 * Hidden folder,
 * Change folder icon,
-* Details of recycle bin
+* File delete,
+* Details of recycle bin(Empty, restore). 
 
 Lesson 9:
 * Pin to Taskbar,
