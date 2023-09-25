@@ -105,6 +105,20 @@ Lesson 9:
 * News and Interest,
 * Task Manager
 
+Lesson 10:
+Shorcut taskbar - 
+* Search: hidden, show search icon, show search box,
+* type here to search,
+* Manage notification,
+* Date/time,
+* Internet connection on/off,
+* Speaker/Sound box,
+* Microsoft store
+Create microsoft account windows 10
+* Task view -> New Desktop, Device history
+
+Start button -> recently added -> productibity
+
 
 Software download - 
 
