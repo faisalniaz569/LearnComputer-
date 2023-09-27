@@ -119,6 +119,20 @@ Create microsoft account windows 10
 
 Start button -> recently added -> productibity
 
+Lesson 11:
+This PC/Laptop -
+* Drive C, D, E, F, G, H
+* DVD drive - open or close, play CD/DVD,
+* Drive rename, Drive properties, Drive format.
+
+How to use pendrive/ Hard disk drive -
+* File copy/paste,
+* Data transfer
+
+Quick access -
+* Documents, Downloads,
+* Music, pictures, video
+
 
 Software download - 
 
