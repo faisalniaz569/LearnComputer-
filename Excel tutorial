@@ -70,12 +70,23 @@ Keyboard shortcut:
 23. Hide the selected rows: Ctrl + 9
 24. Go to help: Alt + Y
 25. Hide the selected columns: Ctrl + 0
+26. Auto fill column width: Alt + H + O + I
 
 The file format supported by Excel is as follows:
  1. TXT
  2. XML
  3. HTML
  4. CSV
+
+Chapter 4:
+
+* Data Entry form in excel,
+* Sales report
+
+Columns size 1. Drag, 2. Double click
+Fill Handle: 1,2,3,4,5(Copy cells, Fill Series)
+
+
 
 
 
