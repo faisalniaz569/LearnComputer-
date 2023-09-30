@@ -133,6 +133,31 @@ Quick access -
 * Documents, Downloads,
 * Music, pictures, video
 
+Lesson 12:
+Multimedia - 
+* Open photo,
+* play video,
+* play audio,
+* Read PDF file,
+* Photo editing
+* Voice recorder,
+* Video editing
+
+Open photo / about photo -
+Photo format:
+JPEG, PNG, GIF, PSD, SVG
+
+Photo resolution -
+* HD: 1280 * 720
+* Full HD: 1920 * 1080
+* Quad HD: 2560 * 1440
+* Ultra HD: 3840 * 2160
+
+photo MB size:
+500KB, 5MB, 1GB
+
+
+
 
 Software download - 
 
