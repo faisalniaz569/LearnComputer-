@@ -156,8 +156,26 @@ Photo resolution -
 photo MB size:
 500KB, 5MB, 1GB
 
+Lesson 13: 
+Multimedia(part: 2) -
+* How to play video and about video,
+* How to use random video player,
+* Download video player for pc.
 
+Video format:
+MP4, AVI, MPG, 3GP, WMV, FLV etc.
 
+Video resolution:
+* SD: 640 * 480
+* HD: 1280 * 720
+* Full HD: 1920 * 1080
+* 4K Ultra HD: 3840 * 2160
+* 8K Full Ultra HD: 7680 * 4320
+
+Video Size:
+* 50/500(MB) Megabyte,
+* 1/5(GB) GigaByte,
+* 1(TB) Terabyte
 
 Software download - 
 
