@@ -177,6 +177,28 @@ Video Size:
 * 1/5(GB) GigaByte,
 * 1(TB) Terabyte
 
+Lesson 14:
+Multimedia(part: 3) -
+* Basic photo editing(crop and rotate, filters and adjustment),
+* Play audio and about audio,
+* Read PDF file and download pdf.
+
+Play audio & about audio:
+* Audio format:
+MP3, WAV, WMA, AMR
+
+* Audio player for pc:
+Groove music, Windows Media Player, VLC media player, Jet audio player, KM player
+
+Read PDF file and download PDF:
+* Download:
+http://nctb.gov.bd/ (For Books)
+https://bdebooks.com/
+https://www.amarbooks.org/
+
+
+
+
 Software download - 
 
 filehippo => https://www.filehippofile.com/
