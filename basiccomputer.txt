@@ -197,6 +197,25 @@ https://bdebooks.com/
 https://www.amarbooks.org/
 
 
+Lesson 15:
+Multimedia(part: 4) -
+* Basic Voice record,
+* Basic Voice editing
+
+# Basic voice record -
+* Voice record (Ctrl + R),
+* Voice trim,
+* Voice delete,
+* Open file location
+
+# Basic Video Editing - 
+* Windows 10 video editor,
+* New video project,
+* Name your video,
+* Add Photo/Video,
+* Place in storyboard,
+* Add title - Duration - Text Motion -3D effects - Filters
+* Background music - Custom audio - Aspect ratio - Finish video
 
 
 Software download - 
