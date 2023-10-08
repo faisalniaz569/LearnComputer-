@@ -220,6 +220,24 @@ Multimedia(part: 4) -
 * Add title - Duration - Text Motion -3D effects - Filters
 * Background music - Custom audio - Aspect ratio - Finish video
 
+Lesson 16:
+Windows settings -
+* Windows update and security
+
+System - 
+Display =>
+* Night light settings and schedule,
+* Change the size of text,
+* Power and sleep.
+
+Devices =>
+* Add Bluetooth and other devices,
+* Add (Mouse + Keyboard) Bluetooth speakers,
+* Mouse: cursor speed - 10,
+* USB: Notify me if there are issues connecting to USB devices.
+
+
+
 
 Software download - 
 
