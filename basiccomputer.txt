@@ -236,6 +236,27 @@ Devices =>
 * Mouse: cursor speed - 10,
 * USB: Notify me if there are issues connecting to USB devices.
 
+Lesson 17:
+Windows settings - (Part: 2)
+
+# Network & Internet:
+* Broadband internet connection on/off,
+* Advanced network setting -
+Change adapter option (Mouse right button click - Disable/Enable),
+
+* Create a microsoft account,
+* Settings - 
+> Apps and feature,
+> startup,
+
+* Time & Language -
+> Windows display language -
+Bangla, Arabic, Urdu
+
+* Ease of access -
+Display: Make text bigger,
+Make everything bigger.
+
 
 
 
