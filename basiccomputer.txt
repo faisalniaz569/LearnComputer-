@@ -257,7 +257,13 @@ Bangla, Arabic, Urdu
 Display: Make text bigger,
 Make everything bigger.
 
+Lesson 18:
 
+* Windows built-in application -
+Run: temp, %temp%, prefetch, recent, tree.
+
+Notepad, Snipping tool, Paint, Paint 3D, Calculator, Alarm & Clock,
+Calendar, Weather, On screen keyboard, Game - Windows Card game.
 
 
 Software download - 
@@ -279,9 +285,5 @@ schools all class book => http://www.nctb.gov.bd/
 
 Golper boi website- https://bdebooks.com/
 
-Run: temp, %temp%, prefetch, recent, tree.
-
-Notepad, Snipping tool, Paint, Paint 3D, Calculator, Alarm & Clock,
-Calendar, Weather, On screen keyboard
 
 step recorder - psr(shortcut command)
