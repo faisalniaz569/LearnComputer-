@@ -270,10 +270,26 @@ Lesson 19:
 
 Paint 3D, Calculator, Alarm & Clock, Calendar, Weather, On screen keyboard, Game - Windows Card game.
 
+Lesson 20:
+
+* Softare download and Install.
+* Control Panel -
+Category -> Large icons -> Small icons.
+Programs -> Uninstall a program. (software uninstall)
+
+# Memory units full form -
+* 1024 byte -> 1 KB (Killobyte)
+* 1024 kb -> 1 MB (Megabyte)
+* 1024 Mb -> 1 GB (Gigabyte)
+* 1024 Gb -> 1 TB (Terabyte)
+* 1024 Tb -> 1 PB (Petabyte)
+* 1024 Pb -> 1 Eb (Exabyte)
+* 1024 Eb -> 1 Zb (Zettabyte)
+* 1024 Zb -> 1 Yb (Yottabyte).
 
 Software download - 
-
-filehippo => https://www.filehippofile.com/
+* Media player,
+* filehippo => https://www.filehippofile.com/
 https://ninite.com/
 
 ** office.com,
@@ -290,5 +306,9 @@ schools all class book => http://www.nctb.gov.bd/
 
 Golper boi website- https://bdebooks.com/
 
-
 step recorder - psr(shortcut command)
+
+
+# Basic Mobile Academy.
+
+
