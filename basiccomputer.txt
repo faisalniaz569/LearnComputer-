@@ -259,11 +259,16 @@ Make everything bigger.
 
 Lesson 18:
 
-* Windows built-in application -
+* Windows built-in application - (Part - 1)
 Run: temp, %temp%, prefetch, recent, tree.
 
-Notepad, Snipping tool, Paint, Paint 3D, Calculator, Alarm & Clock,
-Calendar, Weather, On screen keyboard, Game - Windows Card game.
+Notepad, Snipping tool, Paint.
+
+Lesson 19:
+
+* Windows built-in application - (Part - 2)
+
+Paint 3D, Calculator, Alarm & Clock, Calendar, Weather, On screen keyboard, Game - Windows Card game.
 
 
 Software download - 
