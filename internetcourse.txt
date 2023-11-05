@@ -22,7 +22,7 @@ Lesson 1:
 * How to download Chrome?
 
 * How to open a Tab?
-=> Click (+) icon in brwser tab or (Ctrl + T) than open new page.
+=> Click (+) icon in browser tab or (Ctrl + T) than open new page.
 
 ## Bookmark - list, name, folder.
 
