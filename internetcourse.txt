@@ -1,11 +1,28 @@
-* broadband, mobile internet
+Internet Course:
+================
 
-## Internet: 
-Internet Explorer, Microsoft Edge, Opera Browser, Firfox, Chrome
+Lesson 1:
+* How to use Internet?
+=> Broadband, 
+=> Mobile sim network.
 
-** customize chrome,
+* Browser types - 
+=> Internet Explorer, 
+=> Microsoft Edge, 
+=> Opera Browser,
+=> Firfox, 
+=> Chrome.
 
-* Tab,
+* How to open Browser?
+=> one or double click.
+
+* How to search in Browser?
+=> search in write or web speak.
+
+* How to download Chrome?
+
+* How to open a Tab?
+=> Click (+) icon in brwser tab or (Ctrl + T).
 
 ## Bookmark - list, name, folder.
 
