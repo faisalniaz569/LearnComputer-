@@ -13,16 +13,25 @@ Lesson 1:
 => Firfox, 
 => Chrome.
 
+* How to download Chrome?
+
 * How to open Browser?
-=> one or double click.
+=> one, double or right click.
 
 * How to search in Browser?
 => search in write or web speak.
 
-* How to download Chrome?
-
 * How to open a Tab?
 => Click (+) icon in browser tab or (Ctrl + T) than open new page.
+
+* Minimize, restore down, close and resize.
+
+* Customize chrome.
+
+* Shortcut in add shortcut/customize chrome.
+* Edit or delete Shortcut.
+
+Lesson 2:
 
 ## Bookmark - list, name, folder.
 
