@@ -35,6 +35,10 @@ Lesson 2:
 * Google Chrome pin to start or pin to taskbar.
 * Any can search in google search engine.
 
+Lesson 3:
+
+* Google Image, 
+* Browser zoom
 
 
 ## Bookmark - list, name, folder.
