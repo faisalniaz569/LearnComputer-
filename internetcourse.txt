@@ -40,6 +40,9 @@ Lesson 3:
 * Google Image, 
 * Browser zoom
 
+=> colorful image, transparent image, Black and white image.
+
+
 
 ## Bookmark - list, name, folder.
 
