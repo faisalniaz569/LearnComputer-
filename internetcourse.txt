@@ -48,9 +48,17 @@ Lesson 4:
 
 Lesson 5:
 
-* shortcut key of websites.
- 
-* History, Extension (Speedtest, google translate, Grammarly)
+Chrome -
+* History, recently closed,
+* History by date,
+* History delete,
+* Actions.
+* Clear browsing data.
+* Extension -
+=> Speedtest, google translate, Grammarly, Google Keep, Social Blade etc.
+* Themes,
+* Google Chrome browser settings.
+
 
 ** Google account
 
