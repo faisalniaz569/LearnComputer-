@@ -59,6 +59,27 @@ Chrome -
 * Themes,
 * Google Chrome browser settings.
 
+Lesson 6:
+
+Google Chrome Browser Shortcutkey -
+
+* Tabs (Ctrl + T),
+* New Google Chrome window (Ctrl + N),
+* Google Chrome browser history (Ctrl + H),
+* Google Chrome browser dowload history (Ctrl + J),
+* Google Chrome browser Bookmarks (Ctrl + D),
+* Google Chrome browser Print (Ctrl + P),
+* Find (Ctrl + F)
+......
+
+=> Customize and Control Google Chrome.
+* Save (Ctrl + S),
+
+=> Creative IT Group.
+
+
+
+
 
 ** Google account
 
