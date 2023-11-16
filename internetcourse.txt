@@ -77,11 +77,27 @@ Google Chrome Browser Shortcutkey -
 
 => Creative IT Group.
 
+Lesson 7:
 
+* What is Google Account? How to create Google account?
 
+* Google products:
+=> Android, 
+=> Calendar,
+=> Chrome,
+=> Chromebook,
+=> Contacts,
+=> Drive,
+=> Docs,
+=> Forms,
+=> Files,
+=> Playstore,
+=> Map,
+=> Photos,
+=> Sheets,
+=> Slides,
+=> Travel,
 
-
-** Google account
 
 Email info - 
 
