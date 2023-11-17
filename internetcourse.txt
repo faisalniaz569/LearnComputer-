@@ -75,8 +75,6 @@ Google Chrome Browser Shortcutkey -
 => Customize and Control Google Chrome.
 * Save (Ctrl + S),
 
-=> Creative IT Group.
-
 Lesson 7:
 
 * What is Google Account? How to create Google account?
@@ -98,6 +96,8 @@ Lesson 7:
 => Slides,
 => Travel,
 
+** Google product (Total = 83)
+
 
 Email info - 
 
@@ -108,9 +108,13 @@ Date of birth -
 Mobile -
 A/N Email - 
 
-** Google product (Total = 83)
-
+** Google Meet
 ** Gmail all option
+
+=> Creative IT Group.
+
+Lesson 8:
+
 
 ** youtube - (PDO search engine)
 
