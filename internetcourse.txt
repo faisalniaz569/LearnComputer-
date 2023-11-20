@@ -100,7 +100,6 @@ Lesson 8:
 
 ** Google product (Total = 83)
 
-
 Email info - 
 
 Name -
@@ -115,9 +114,13 @@ A/N Email -
 
 => Creative IT Group.
 
-Lesson 8:
+Lesson 9:
 
-** Google Products -
+** Information about tourist centers.
+** Information about Hospital.
+** Information about Hotel.
+** Information about Restaurent.
+
 
 
 ** youtube - (PDO search engine)
