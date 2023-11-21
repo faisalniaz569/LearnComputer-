@@ -121,6 +121,17 @@ Lesson 9:
 ** Information about Hotel.
 ** Information about Restaurent.
 
+Lesson 10:
+
+* Gmail details - 
+=> inbox,
+=> starred,
+=> snoozed,
+=> sent,
+=> Drafts,
+=> more
+
+** How to mail from gmail and compose  details.
 
 
 ** youtube - (PDO search engine)
