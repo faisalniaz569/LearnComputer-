@@ -140,11 +140,22 @@ Lesson 11:
 * Settings all option.
 
 Lesson 12:
+Yoytube - (Part-1)
 
 * What is YouTube?
 * How to search in youtube?
 * Filters,
 * Playlist
+
+Lesson 13:
+Yoytube - (Part-2)
+
+* Explore => music, gaming, sports, Trending
+* Subscription,
+* History
+* Add to queue, save to watch later, save to playlist, download, share, 
+not interested, don't recommended channel, report.
+
 
 ** facebook
 => facebook page and buisness, facebook group.
