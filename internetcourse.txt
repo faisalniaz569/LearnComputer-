@@ -157,6 +157,17 @@ Yoytube - (Part-2)
 not interested, don't recommended channel, report.
 
 
+Lesson 14:
+Yoytube - (Part-3)
+
+* Video play in youtube.
+* button and shorcut key,
+* Replay, play, next, mute
+* Autoplay, miniplayer, Theater mode, full screen.
+* Settings.
+* like, dislike and more.
+
+
 ** facebook
 => facebook page and buisness, facebook group.
 
