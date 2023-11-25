@@ -140,7 +140,7 @@ Lesson 11:
 * Settings all option.
 
 Lesson 12:
-Yoytube - (Part-1)
+Youtube - (Part-1)
 
 * What is YouTube?
 * How to search in youtube?
@@ -148,7 +148,7 @@ Yoytube - (Part-1)
 * Playlist
 
 Lesson 13:
-Yoytube - (Part-2)
+Youtube - (Part-2)
 
 * Explore => music, gaming, sports, Trending
 * Subscription,
@@ -158,7 +158,7 @@ not interested, don't recommended channel, report.
 
 
 Lesson 14:
-Yoytube - (Part-3)
+Youtube - (Part-3)
 
 * Video play in youtube.
 * button and shorcut key,
