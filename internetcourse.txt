@@ -168,12 +168,30 @@ Youtube - (Part-3)
 * like, dislike and more.
 
 
-** facebook
-=> facebook page and buisness, facebook group.
+Lesson 15:
 
-** live TV
-=> bongobd.com, http://banglaflix.com.bd/
-=> hoichoi.com, chorki.com, https://www.zee5.com/
+# Facebook -
+
+* facebook details, tips and tricks.
+=> Home, pages, watch/video, marketplace, groups, gaming.
+=> facebook profile.
+=> facebook page and buisness, facebook group.
+=> Menubar,
+=> Messanger,
+=> Notification,
+=> Account.
+
+# Home: 
+Create story, All stories.
+
+* How to create own story.(Photo, text).
+* Post - Whats in your mind?
+=> Post in only images,
+=> Post in only text,
+=> Post in image and text,
+=> Post in video.
+
+
 
 ** Online newspaper
 
