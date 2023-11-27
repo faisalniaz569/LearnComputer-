@@ -156,7 +156,6 @@ Youtube - (Part-2)
 * Add to queue, save to watch later, save to playlist, download, share, 
 not interested, don't recommended channel, report.
 
-
 Lesson 14:
 Youtube - (Part-3)
 
@@ -166,7 +165,6 @@ Youtube - (Part-3)
 * Autoplay, miniplayer, Theater mode, full screen.
 * Settings.
 * like, dislike and more.
-
 
 Lesson 15:
 
@@ -190,6 +188,12 @@ Create story, All stories.
 => Post in only text,
 => Post in image and text,
 => Post in video.
+
+Lesson 16:
+
+* How to create Reels?
+* How to search pages(Restaurent, online shop etc.)?
+* How to create a page?
 
 
 
