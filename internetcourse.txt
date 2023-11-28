@@ -194,6 +194,12 @@ Lesson 16:
 * How to create Reels?
 * How to search pages(Restaurent, online shop etc.)?
 * How to create a page?
+* Watch in facebook.(Show more, Show less, Save video, follow, Copy link, report video).
+
+Lesson 17:
+
+* How to search group and create a group?
+* Invite friend for group.
 
 
 
