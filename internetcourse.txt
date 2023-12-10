@@ -301,7 +301,22 @@ Lesson 25:
 => https://everify.bdris.gov.bd/
 
 ** National ID card,
+=> https://services.nidw.gov.bd/nid-pub/
 => https://nidw.info/
+
+** Online passport application -
+=> www.epassport.gov.bd
+
+** How to buy bus tickets online?
+=> https://www.shohoz.com/bus-tickets
+
+** How to buy train tickets online?
+=> https://eticket.railway.gov.bd/en
+
+** How to buy airplane tickets online?
+=> https://www.biman-airlines.com/
+
+Lesson 26:
 
 
 ** photopea.com (graphics)
