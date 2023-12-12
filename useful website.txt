@@ -1,21 +1,21 @@
 * To remove background -
 => https://www.remove.bg/
 
-* লেখালেখি করার ইচ্ছা আছে, কিন্তু টাইপিং স্পিড খুব কম।  
-টাইপ করতে ইচ্ছে করছে না। শুধু বলবো আর লেখা হয়ে যাবে তাহলে কেমন হয়।
+* Willing to write, but typing speed is too slow.
+Don't want to type. I'll just say it and it will be written, how about that?
 => https://dictation.io/
 
-* image to text -
-https://www.i2ocr.com/
+* To convert image to text -
+=> https://www.i2ocr.com/
 
-** mail in 10 min - 
-https://10minutemail.com/
+* To mail within 10 minutes. This is a virtual mail -
+=> https://10minutemail.com/
 
-** Every note for life - 
-https://keep.google.com/
+* Every note for life - 
+=> https://keep.google.com/
 
-** Free stock images, audio, video - 
-https://pixabay.com/
+* Free stock images, audio, video - 
+=> https://pixabay.com/
 
 ** Bangla Fonts -
 https://lipighor.com/
