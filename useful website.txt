@@ -1,8 +1,9 @@
-* Remove Backgroud -
-https://www.remove.bg/
+* To remove background -
+=> https://www.remove.bg/
 
-* Any language write in website - 
-https://dictation.io/
+* লেখালেখি করার ইচ্ছা আছে, কিন্তু টাইপিং স্পিড খুব কম।  
+টাইপ করতে ইচ্ছে করছে না। শুধু বলবো আর লেখা হয়ে যাবে তাহলে কেমন হয়।
+=> https://dictation.io/
 
 * image to text -
 https://www.i2ocr.com/
