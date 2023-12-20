@@ -1,1 +1,9 @@
+* How to screenshot in computer or desktop? -
+# From keyboard,
+startbutton + prntScr
+(
+  Find Screenshot -
+  startbutton + E = picture folder -> Screenshots ->
+)
 
+# 
