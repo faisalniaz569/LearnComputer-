@@ -6,4 +6,20 @@ startbutton + prntScr
   startbutton + E = picture folder -> Screenshots ->
 )
 
-# 
+# From keyboard, (part - 2)
+startbutton + Shift + S(screenshot) -> save a picture,
+
+# From keyboard, (part - 3)
+startbutton + Alt + prntScr
+
+# From keyboard, (part - 4)
+Only prntScr click -> Paint -> paste -> save in jpeg
+
+# From Snipping tool
+
+# Snip & sketch
+
+# screen snip
+
+
+
