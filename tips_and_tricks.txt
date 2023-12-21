@@ -21,5 +21,36 @@ Only prntScr click -> Paint -> paste -> save in jpeg
 
 # screen snip
 
+## Computer mouse super tricks -
+* How to open and close link from mouse?
+=> mouse wheel.
+
+## Useful mouse super tricks (part -2) -
+=> double click in word than select full word.
+=> three click in word than select full sentence.
+
+## Folder/Browser Restore down -
+=> Restore icon click than result.
+
+## Windows + D (Open file minimize and open all files) -
+=> Open all various file and folder than click windows and D.
+
+## Shut down windows 10 with just one click -
+=> windows + Alt + F4 
+
+## Steps recorder -
+=> windows + R -> psr,
+=> search click -> step recorder.
+
+## Zoom in/Zoom out
+=>  windows + -
+
+## Desktop History -
+=> windows + Tab
+
+
+
+
+
 
 
