@@ -80,9 +80,6 @@ Google Chrome Browser Shortcutkey -
 * Google Chrome Browser refresh (Ctrl + R)
 ......
 
-=> Customize and Control Google Chrome.
-* Save (Ctrl + S),
-
 Lesson 7:
 
 * What is Google Account? How to create Google account?
