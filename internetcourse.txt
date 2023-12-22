@@ -65,11 +65,19 @@ Google Chrome Browser Shortcutkey -
 
 * Tabs (Ctrl + T),
 * New Google Chrome window (Ctrl + N),
+* New Incognito Tab(Ctrl + Shift + N),
 * Google Chrome browser history (Ctrl + H),
 * Google Chrome browser dowload history (Ctrl + J),
 * Google Chrome browser Bookmarks (Ctrl + D),
+* Many Tab browser bookmarks in Google Chrome (Ctrl + Shift + D),
+* Bookmark hidden and show in Google Chrome (Ctrl + Shift + B),
+* Bookmark manage (Ctrl + Shift + O),
 * Google Chrome browser Print (Ctrl + P),
-* Find (Ctrl + F)
+* Save page (Ctrl + S),
+* Find (Ctrl + F),
+* Google Chrome browser data delete (Ctrl + Shift + delete),
+* Google Chrome developer tool (Ctrl + Shift + I),
+* Google Chrome Browser refresh (Ctrl + R)
 ......
 
 => Customize and Control Google Chrome.
