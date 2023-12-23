@@ -57,6 +57,7 @@ Google Chrome:-
 ## Customize chrome,
 ## Add Shortcut,
 ## Add tab to new group,
+## Pin and Unpin tab
 
 
 
