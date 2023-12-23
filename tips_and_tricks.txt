@@ -52,7 +52,12 @@ Only prntScr click -> Paint -> paste -> save in jpeg
 
 Google Chrome:-
 
-## Chrome browse update -
+## Tab Duplicate,
+## Mute/Unmute tab,
+## Customize chrome,
+## Add Shortcut,
+## Add tab to new group,
+
 
 
 
