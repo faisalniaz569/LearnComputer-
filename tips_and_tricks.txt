@@ -60,6 +60,16 @@ Google Chrome:-
 ## Pin and Unpin tab
 
 
+================================================================================================
+
+** How to Word file preview?
+=> Alt + p
+
+** How to details file, folder?
+=> Alt + Shift + p
+
+** Screen record in powerpoint/anything (Without software)?
+
 
 
 
