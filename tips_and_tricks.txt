@@ -48,6 +48,12 @@ Only prntScr click -> Paint -> paste -> save in jpeg
 ## Desktop History -
 => windows + Tab
 
+## File Encryption options -
+(Password lock)
+
+## Onscreen keyboard 
+
+
 ================================================================================================
 
 Google Chrome:-
