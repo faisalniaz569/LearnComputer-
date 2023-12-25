@@ -81,6 +81,33 @@ Google Chrome:-
 ** Add Emoji in powerpoint. (windows + .)
 
 
+================================================================================================
+
+** Gmail keyboard shortcutkeys -
+=> J (Down), K(Up),
+=> Enter/O (Read mail),
+=> R (Reply instantly),
+=> F (Forward mail),
+=> Ctrl + Shift + D (Discard Forward mail),
+=> Open mail than - Ctrl + p (Print),
+=> / (To find a specific mail),
+=> Ctrl + L (Go to addressbar),
+=> G D (Go to Drafts), G I (Go to Inbox), G S (Go to Starred), G T(Go to Sent),
+G N (Next page mails), G P (Previous page mails), G A (All mails), * A (First 50 mails), * N (Delete mails),
+Ctrl + W (Close gmail), C (Mail/compose in short), D (Mail/compose in full), Ctrl + Shift + C (CC mail),
+Ctrl + Shift + B (BCC mail), Ctrl + Shift + 5 (Font change), Ctrl + Shift + 6 (Default font), 
+Ctrl + Shift + 2 (emoji in mail), 
+=> select sentence in mail than - Bold (Ctrl + B), Italic (Ctrl + I), Underline (Ctrl + U), 
+=> select all (Ctrl + A), Cut (Ctrl + X), Paste (Ctrl + V), Copy (Ctrl + C), Undo (Ctrl + Z),
+=> Send mail (Ctrl + Enter), Delete mail (Ctrl + Shift + D)
+
+
+
+
+
+
+
+
 
 
 
