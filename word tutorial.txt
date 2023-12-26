@@ -1,10 +1,19 @@
+Microsoft Word Course:
+======================
+
+Lesson 1:
+
 => How to open? 
 
 start menu, search option, mouse right button, shortcut option, taskbar, windows+R (winword).
 
+** Templates in Microsoft Word. There are 1000 templates in Word.
+
 ** Title bar, rightside(minimize, restore, close), leftside(customize quick access toolbar),  
 ** Tab, ribbon, dialog box, working area, ruler, scrollbar, statusbar(below), zoomin/zoomout(below),
 text cursor/ insertion point, eyeview.
+
+=> If you open document everytimes than you get document1, document2, ....
 
 => Text paragraph
 
