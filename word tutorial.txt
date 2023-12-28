@@ -3,26 +3,38 @@ Microsoft Word Course:
 
 Lesson 1:
 
-=> How to open? 
-
-start menu, search option, mouse right button, shortcut option, taskbar, windows+R (winword).
+* How to open? 
+=> start menu, search option, mouse right button, shortcut option, taskbar, windows+R (winword).
 
 ** Templates in Microsoft Word. There are 1000 templates in Word.
 
-** Title bar, rightside(minimize, restore, close), leftside(customize quick access toolbar),  
-** Tab, ribbon, dialog box, working area, ruler, scrollbar, statusbar(below), zoomin/zoomout(below),
+** Basic window introduce - 
+=> Title bar, rightside(minimize, restore, close), leftside(customize quick access toolbar),  
+Tab, ribbon, Group, Show dialog box, working area, ruler, scrollbar, statusbar(below), zoomin/zoomout(below),
 text cursor/ insertion point, eyeview.
 
 => If you open document everytimes than you get document1, document2, ....
+Than save it in your choice name.
+
+=> How to collapse / show ribbon?
 
 Lesson 2:
 
+** We can type in word or default can be written -
 => Text paragraph
-
 =rand() -> enter 
 
-Select a sentence and show formatting mini toolbar.
-Spacebar, tab, Capslock, delete, backspace
+** How to Select a word/sentence? 
+** Select a sentence and show formatting mini toolbar.
+** How to use Spacebar? 
+** How to use Tab? 
+** How to use Capslock? 
+
+* If you write a word/sentence than enter, you write next para.
+* If you click backspace than you get previous space.
+* How to use delete?
+
+** How to use paragraph mark?
 
 * Home option all 
 
