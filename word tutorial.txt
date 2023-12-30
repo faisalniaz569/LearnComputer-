@@ -20,11 +20,15 @@ Than save it in your choice name.
 
 Lesson 2:
 
+** File Tab all options.
+** New -> Templates
 ** We can type in word or default can be written -
 => Text paragraph
 =rand() -> enter 
+** File -> more -> options -> customize ribbon, quick access toolbar.
 
 ** How to Select a word/sentence? 
+** How to Align left, center, Align right?
 ** Select a sentence and show formatting mini toolbar.
 ** How to use Spacebar? 
 ** How to use Tab? 
@@ -35,19 +39,6 @@ Lesson 2:
 * How to use delete?
 
 ** How to use paragraph mark?
-
-* Home option all 
-
-** Font-family: Times New Roman, font size: 12,
-
-** Paragraph -
-align - left, center, right
-
-* border in paragraph,
-
-* line spacing,
-* bullets
-
 ** Shortcut keys (A-Z)
 
 => Ctrl + A (all selects)
@@ -74,8 +65,26 @@ align - left, center, right
 => Ctrl + V (paste)
 => Ctrl + W (close document)
 => Ctrl + X (cut)
-=> Ctrl + Y (indent paragraph)
-=> Ctrl + Z (undo)
+=> Ctrl + Y (Repeat typing)
+=> Ctrl + Z (undo typing)
+
+>> Cannot save multiple times with the same name in the same location.
+
+Lesson 3:
+
+* Home option all 
+
+** Font-family: Times New Roman, font size: 12,
+
+** Paragraph -
+align - left, center, right
+
+* border in paragraph,
+
+* line spacing,
+* bullets
+
+
 
 
 * Insert image
