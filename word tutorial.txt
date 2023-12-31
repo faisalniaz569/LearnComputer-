@@ -100,6 +100,8 @@ Editing =>
 ClipBoard =>
 * Cut, Copy, Paste, Format painter
 
+** Dialog box launcher in every group in Home tab.
+
 Lesson 4:
 
 * Insert image
