@@ -72,20 +72,35 @@ Lesson 2:
 
 Lesson 3:
 
-* Home option all 
+* Home option all, 
+all groups of home tab.
 
-** Font-family: Times New Roman, font size: 12,
+Font =>
+* Font-family: - many fontfamily
+Times New Roman, font size: 12,
+* Bold, Italic, Underline.
+* Strikethrough, Subscript, Superscript.
+* Increase and decrese font size.
+* Change case.
+* Text effect and typography.
 
-** Paragraph -
+Paragraph =>
+* Paragraph -
 align - left, center, right
-
 * border in paragraph,
-
-* line spacing,
+* line and paragraph spacing,
 * bullets
 
+Styles => 
+* all types style.
 
+Editing =>
+* Find, replace and select.
 
+ClipBoard =>
+* Cut, Copy, Paste, Format painter
+
+Lesson 4:
 
 * Insert image
 
