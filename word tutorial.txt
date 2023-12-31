@@ -101,6 +101,7 @@ ClipBoard =>
 * Cut, Copy, Paste, Format painter
 
 ** Dialog box launcher in every group in Home tab.
+** Tell me what to do?
 
 Lesson 4:
 
