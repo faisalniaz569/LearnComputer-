@@ -75,6 +75,10 @@ Lesson 3:
 * Home option all, 
 all groups of home tab.
 
+Clipboard =>
+* Cut, copy, paste.
+* Format painter.
+
 Font =>
 * Font-family: - many fontfamily
 Times New Roman, font size: 12,
@@ -83,10 +87,12 @@ Times New Roman, font size: 12,
 * Increase and decrese font size.
 * Change case.
 * Text effect and typography.
+* Clear all Formatting,
+* Font Color -> more color and gradient color, Format text effect.
 
 Paragraph =>
 * Paragraph -
-align - left, center, right
+align - left, center, right, justify
 * border in paragraph,
 * line and paragraph spacing,
 * bullets
@@ -97,13 +103,17 @@ Styles =>
 Editing =>
 * Find, replace and select.
 
-ClipBoard =>
-* Cut, Copy, Paste, Format painter
-
-** Dialog box launcher in every group in Home tab.
+** Dialog box launcher in every group in every tabs.
 ** Tell me what to do?
 
+* Describe Dialog box launcher in font.
+
 Lesson 4:
+
+Font =>
+
+
+
 
 * Insert image
 
