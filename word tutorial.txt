@@ -38,7 +38,6 @@ Lesson 2:
 * If you click backspace than you get previous space.
 * How to use delete?
 
-** How to use paragraph mark?
 ** Shortcut keys (A-Z)
 
 => Ctrl + A (all selects)
@@ -90,27 +89,29 @@ Times New Roman, font size: 12,
 * Clear all Formatting,
 * Font Color -> more color and gradient color, Format text effect.
 
+** Dialog box launcher in every group in every tabs.
+** Tell me what to do?
+
+* Describe Dialog box launcher in font. (Ctrl + D)
+
+Lesson 4:
+
 Paragraph =>
 * Paragraph -
 align - left, center, right, justify
-* border in paragraph,
+* bullets,
+* Numbering,
+* Multilevel list,
 * line and paragraph spacing,
-* bullets
+
+** How to use paragraph mark?
+
 
 Styles => 
 * all types style.
 
 Editing =>
 * Find, replace and select.
-
-** Dialog box launcher in every group in every tabs.
-** Tell me what to do?
-
-* Describe Dialog box launcher in font.
-
-Lesson 4:
-
-Font =>
 
 
 
