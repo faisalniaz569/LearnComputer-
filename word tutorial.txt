@@ -103,6 +103,7 @@ align - left, center, right, justify
 * Numbering,
 * Multilevel list,
 * line and paragraph spacing,
+* Shading,
 
 ** How to use paragraph mark?
 
