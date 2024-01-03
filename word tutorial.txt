@@ -107,14 +107,13 @@ align - left, center, right, justify
 
 ** How to use paragraph mark?
 
-
 Styles => 
 * all types style.
 
 Editing =>
 * Find, replace and select.
 
-
+Lesson 5:
 
 
 * Insert image
