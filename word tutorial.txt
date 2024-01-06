@@ -22,9 +22,12 @@ Lesson 2:
 
 ** File Tab all options (Create/New, Open, Save, Close).
 ** New -> Templates
+** How to create a new file?
 ** We can type in word or default can be written -
 => Text paragraph
 =rand() -> enter 
+** How to pin a file?
+
 ** File -> more -> options -> customize ribbon, quick access toolbar.
 
 ** How to Select a word/sentence? 
