@@ -20,7 +20,7 @@ Than save it in your choice name.
 
 Lesson 2:
 
-** File Tab all options.
+** File Tab all options (Create/New, Open, Save, Close).
 ** New -> Templates
 ** We can type in word or default can be written -
 => Text paragraph
