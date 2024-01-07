@@ -108,19 +108,28 @@ align - left, center, right, justify
 * Multilevel list,
 * line and paragraph spacing,
 * Shading,
-
-** How to use paragraph mark?
+* How to use paragraph mark?
 
 Styles => 
-* all types style.
+* Introduce of all types style.
+* How to add styles?
 
 Editing =>
 * Find, replace and select.
 
 Lesson 5:
 
+* Introduce of insert tab.
+* How to insert a picture?
 
-* Insert image
+=>> When we insert a picture than picture format tab display in word.
+* How to move a picture?
+* How to remove background?
+* How to Sharpen and brightness of Correction in adjust?
+* How to add color in picture?
+* How to artistic effect in picture?
+* How to insert a frame in picture?
+* How to picture border and picture effect in picture?
 
 * Smart Art, Chart
 
