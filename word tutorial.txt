@@ -13,6 +13,7 @@ Lesson 1:
 Tab, ribbon, Group, Show dialog box, working area, ruler, scrollbar, statusbar(below), zoomin/zoomout(below),
 text cursor/ insertion point, eyeview.
 
+* How to save a document?
 => If you open document everytimes than you get document1, document2, ....
 Than save it in your choice name.
 
@@ -27,6 +28,8 @@ Lesson 2:
 => Text paragraph
 =rand() -> enter 
 ** How to pin a file?
+
+* How to open a pdf file in word?
 
 ** File -> more -> options -> customize ribbon, quick access toolbar.
 
