@@ -124,14 +124,17 @@ Lesson 5:
 
 =>> When we insert a picture than picture format tab display in word.
 * How to move a picture?
-* How to remove background?
-* How to Sharpen and brightness of Correction in adjust?
+* How to remove background? 
 * How to add color in picture?
 * How to artistic effect in picture?
 * How to insert a frame in picture?
 * How to picture border and picture effect in picture?
 
-* Smart Art, Chart
+Lesson 6:
+
+* How to insert a shape?
+* Describe of Smart Art. 
+* Describe of Chart
 
 ** Insert => Cover page, Blank page, Page break, Table.
 
