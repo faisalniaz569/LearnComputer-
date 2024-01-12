@@ -30,6 +30,7 @@ Lesson 2:
 ** How to pin a file?
 
 * How to open a pdf file in word?
+* How to print a document and describe print all options.
 
 ** File -> more -> options -> customize ribbon, quick access toolbar.
 
