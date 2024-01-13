@@ -82,7 +82,8 @@ Lesson 3:
 all groups of home tab.
 
 Clipboard =>
-* Cut, copy, paste.
+* Cut, 
+* copy and paste, paste(keep source formatting, merge formatting, picture and keep text only),
 * Format painter.
 * Describe Dialog box launcher in clipboard. 
 
