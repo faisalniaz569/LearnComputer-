@@ -16,6 +16,7 @@ Basic Laptop sylabus:
 Lesson 1:
 * Introduction Monitor and Laptop,
 * How to open Laptop,
+* Introduction of Windows, Desktop, 
 * Keyboard, mouse and mousepad introduction,
 * Leftclick and rightclick in mousepad,
 * Charhgerport, Internet connection port, The place where the sound of the speaker comes out,
