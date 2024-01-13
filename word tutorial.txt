@@ -138,7 +138,15 @@ Lesson 6:
 
 * How to insert a shape?
 * Describe of Smart Art. 
-* Describe of Chart
+* Describe of Chart.
+
+Lesson 7:
+
+* Describe of WaterArt,
+* Header and footer,
+* Text Box,
+* Describe of WordArt.
+
 
 ** Insert => Cover page, Blank page, Page break, Table.
 
