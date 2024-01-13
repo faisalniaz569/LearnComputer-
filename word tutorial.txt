@@ -142,8 +142,7 @@ Lesson 6:
 
 Lesson 7:
 
-* Describe of WaterArt,
-* Header and footer,
+* Header and footer, Pagenumber,
 * Text Box,
 * Describe of WordArt.
 
