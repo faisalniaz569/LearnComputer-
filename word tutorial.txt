@@ -149,10 +149,15 @@ Lesson 7:
 
 Lesson 8:
 
-* Insert => Cover page, Blank page, Page break, Table.
-* Project in table - (Marksheet, Resultsheet, Salarysheet, Calendar etc.)
+Insert => 
+* Cover page, Blank page, Page break.
+* Table ->
+Insert table, Draw table, Rows and Columns, Quick tables.
+* Project through the table -> (Marksheet, Resultsheet, Salarysheet, Calendar, Class routine etc.)
 
-* Table design, shading, layout, Split cells, Split Table, Rows and Columns, Draw Table.
+
+
+Lesson
 
 * Waatermark
 
