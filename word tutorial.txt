@@ -143,17 +143,19 @@ Lesson 6:
 
 Lesson 7:
 
-* Header and footer, Pagenumber,
-* Text Box,
-* Describe of WordArt.
-
-Lesson 8:
-
 Insert => 
 * Cover page, Blank page, Page break.
 * Table ->
 Insert table, Draw table, Rows and Columns, Quick tables.
 * Project through the table -> (Marksheet, Resultsheet, Salarysheet, Calendar, Class routine etc.)
+
+Lesson 8:
+
+* Header and footer, Pagenumber,
+* Text Box,
+* Describe of WordArt.
+
+
 
 
 
