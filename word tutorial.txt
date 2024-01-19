@@ -122,9 +122,18 @@ Styles =>
 Editing =>
 * Find, replace and select.
 
+
 Lesson 5:
 
 * Introduce of insert tab.
+Insert => 
+* Cover page, Blank page, Page break.
+* Table ->
+Insert table, Draw table, Rows and Columns, Quick tables.
+* Project through the table -> (Marksheet, Resultsheet, Salarysheet, Calendar, Class routine etc.)
+
+Lesson 6:
+
 * How to insert a picture?
 
 =>> When we insert a picture than picture format tab display in word.
@@ -135,23 +144,15 @@ Lesson 5:
 * How to insert a frame in picture?
 * How to picture border and picture effect in picture?
 
-Lesson 6:
+Lesson 7:
 
 * How to insert a shape?
 * Describe of Smart Art. 
 * Describe of Chart.
 
-Lesson 7:
-
-Insert => 
-* Cover page, Blank page, Page break.
-* Table ->
-Insert table, Draw table, Rows and Columns, Quick tables.
-* Project through the table -> (Marksheet, Resultsheet, Salarysheet, Calendar, Class routine etc.)
-
 Lesson 8:
 
-* Header and footer, Pagenumber,
+* Header and footer, Pagenumber.
 * Text Box,
 * Describe of WordArt.
 
