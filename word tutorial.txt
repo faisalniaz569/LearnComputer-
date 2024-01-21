@@ -112,8 +112,14 @@ align - left, center, right, justify
 * Numbering,
 * Multilevel list,
 * line and paragraph spacing,
+* Decrease and Increase Indent,
 * Shading,
 * How to use paragraph mark?
+* Sort,
+* Borders,
+
+Dialog box launcher in paragraph ->
+Indents and spacing, line and page break.
 
 Styles => 
 * Introduce of all types style.
