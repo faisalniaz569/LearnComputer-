@@ -117,6 +117,7 @@ align - left, center, right, justify
 * How to use paragraph mark?
 * Sort,
 * Borders,
+* Tab stops and Indent.
 
 Dialog box launcher in paragraph ->
 Indents and spacing, line and page break.
