@@ -130,7 +130,6 @@ Styles =>
 Editing =>
 * Find, replace and select.
 
-
 Lesson 5:
 
 * Introduce of insert tab.
@@ -139,6 +138,10 @@ Insert =>
 * Table ->
 Insert table, Draw table, Rows and Columns, Quick tables.
 * Project through the table -> (Marksheet, Resultsheet, Salarysheet, Calendar, Class routine etc.)
+
+* How to add a Calendar?
+** When we create a table than display Table design and layout.
+** Describe Table design and layout.
 
 Lesson 6:
 
@@ -160,6 +163,9 @@ Lesson 7:
 
 Lesson 8:
 
+* How to insert add ins?
+* How to insert online videos?
+* How to add a link?
 * Header and footer, Pagenumber.
 * Text Box,
 * Describe of WordArt.
