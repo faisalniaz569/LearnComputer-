@@ -185,10 +185,12 @@ moddhe apnar num thakuk.
 Lesson 10:
 
 * Introduce of layout, 
-* All types of page setup.
+* All types of page setup,
+* Layout -> Paragraph (Indent, Spacing), 
+* Describe of Arrange (2 types of images pick and arrange it).
+
 
 * Spelling and grammer, language, Translate, restrict editing
-
 * print
 
 
