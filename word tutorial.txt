@@ -122,6 +122,7 @@ Dialog box launcher in paragraph ->
 Indents and spacing, line and page break.
 
 *** Tab stops and Indent.
+* Clear tabs (Paragraph settings -> Tabs -> Clear all).
 
 Styles => 
 * Introduce of all types style.
