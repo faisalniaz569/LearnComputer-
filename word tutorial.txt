@@ -198,6 +198,11 @@ Lesson 12:
 
 * Introduce of view.
 
+Lesson 13:
+
+* Themes and Quick styles.
+=> Banded design(blank)
+
 
 
 
