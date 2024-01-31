@@ -175,11 +175,12 @@ Lesson 8:
 Lesson 9:
 
 * Introduce of Design tab.
+* Describe of themes, browse of themes, save current themes,
 * Describe of Watermark,
 Watermark holo kono ekta lekha print koren / apnar lekha onno keu copy naa koruk / apnar lekha nile tar
 moddhe apnar num thakuk.
-* Insert logo watermark.
-* Page Color.
+* Insert logo watermark,
+* Page Color,
 * Page border.
 
 Lesson 10:
