@@ -193,7 +193,7 @@ Lesson 10:
 Lesson 11:
 
 * Introduce of Review.
-* Spelling and grammer, Thesaurus, Word count, language, Translate, restrict editing
+* Spelling and grammer, Thesaurus, Word count, language, Translate, restrict editing (Format and style)
 
 Lesson 12:
 
@@ -203,6 +203,8 @@ Lesson 13:
 
 * Themes and Quick styles.
 => Banded design(blank)
+
+
 
 
 
