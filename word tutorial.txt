@@ -137,7 +137,8 @@ Lesson 5:
 Insert => 
 * Cover page, Blank page, Page break.
 * Table ->
-Insert table, Draw table, Rows and Columns, Quick tables.
+Insert table, Draw table, Rows and Columns, Quick tables, Convert text to table.
+* Table convert to text.
 * Project through the table -> (Marksheet, Resultsheet, Salarysheet, Calendar, Class routine etc.)
 
 * How to add a Calendar?
