@@ -210,6 +210,13 @@ Lesson 14:
 
 * Proofing and Autocorrecting.
 
+Lesson 15:
+
+* Checking for Issues for Document Sharing.
+=> Info -> Check for issues -> 
+Inspect document, Check Accessiblity, Check Compatiblity.
+* Password protection document.
+
 
 
 
