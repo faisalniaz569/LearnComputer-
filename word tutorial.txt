@@ -195,7 +195,8 @@ Lesson 10:
 Lesson 11:
 
 * Introduce of Review.
-* Spelling and grammer, Thesaurus, Word count, language, Translate, comments, restrict editing (Format and style),
+* Spelling and grammer, Thesaurus, Word count, language, Translate, comments, tracking, compare,
+restrict editing (Format and style).
 
 Lesson 12:
 
