@@ -168,7 +168,7 @@ Lesson 8:
 
 * How to insert add ins?
 * How to insert online videos?
-* How to add a link?
+* How to add a link and bookmarks?
 * Header, footer and Pagenumber,
 * Document section and restarting page,
 * Text Box,
